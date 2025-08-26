@@ -1,5 +1,4 @@
-A program that permutes its command-line arguments and writes them to the screen. To generate each new permutation, the permnext() function has to be seeded with the
-previous one. It is therefore called nPr times. Since this algorithm allows for one to easily determine the last permutation, that is used in the first call to permnext(). 
+A program that permutes its command-line arguments and writes them to the screen. To generate each new permutation, the permnext() function has to be seeded with the previous one. Since this algorithm lets one to easily determine the final permutation, that is used in the first call to permnext().
 The source code is currently the only documentation. It can be messy and the help screen is incomplete...
 It's been tested to compile with Microsoft Visual C++ and GNU C compilers.
 For the latter:
