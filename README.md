@@ -3,4 +3,5 @@ previous one. It is therefore called nPr times. Since this algorithm allows for 
 The source code is currently the only documentation. It can be messy and the help screen is incomplete...
 It's been tested to compile with Microsoft OWindows) and GNU C (Linux) compilers.
 For the latter:
+
 gcc -o permutit permutit.c cltail.c combinat.c
