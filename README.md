@@ -1,7 +1,6 @@
 # permutit
 Echoes arguments given at the command-line, in permuted order.
-Only tested with the Microsoft Visual C++ compiler for Windows,
-and the GNU C compiler for Linux.
+Only tested with the Microsoft Visual C++ compiler for Windows, and the GNU C compiler for Linux.
 
 To compile the code under Windows:
 
